@@ -34,3 +34,7 @@ bin/
 build
 build/
 .build/
+
+setting
+setting/
+.setting/
