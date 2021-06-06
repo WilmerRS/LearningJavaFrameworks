@@ -1,0 +1,8 @@
+com/jspbd/jsp_db_1/docente/DocenteController.java
+ com.jspbd.jsp_db_1.docente.DocenteController
+com/jspbd/jsp_db_1/docente/DocenteModel.java
+ com.jspbd.jsp_db_1.docente.DocenteModel
+com/jspbd/jsp_db_1/HelloServlet.java
+ com.jspbd.jsp_db_1.HelloServlet
+com/jspbd/jsp_db_1/bd/ConnectionBD.java
+ com.jspbd.jsp_db_1.bd.ConnectionBD
