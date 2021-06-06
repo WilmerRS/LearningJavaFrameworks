@@ -28,6 +28,13 @@ hs_err_pid*
 .idea
 .idea/
 
+.build/
+/build
+build
+.bin/
+/bin
+bin
+
 /.classpath
 /*.project
 /.settings
