@@ -15,3 +15,7 @@
 2. Install and configure Tomcat 9.
 3. Clone this repository: `git clone https://github.com/WilmerRS/Learn-jsp-spring-bd21-1`.
 4. Update Gradle dependencies: `./gradlew wrapper --gradle-version=WANTED_VERSION --distribution-type=bin`
+
+### 🐧 MVC
+
+This is a project developed using JSP, servlets and model view controller, where JSP files are views, Java code is model, and servlet files are controller.
