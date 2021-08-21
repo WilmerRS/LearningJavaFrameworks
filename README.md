@@ -15,3 +15,9 @@
 2. Install and configure Tomcat 9.
 3. Clone this repository: `git clone https://github.com/WilmerRS/Learn-jsp-spring-bd21-1`.
 4. Update Gradle dependencies: `./gradlew wrapper --gradle-version=WANTED_VERSION --distribution-type=bin`
+
+## 🖋️ Authors
+
+The developers have contributed to this project:
+
+* Wilmer Rodríguez Sánchez - <a href="https://github.com/WilmerRS"> WilmerRS </a>
